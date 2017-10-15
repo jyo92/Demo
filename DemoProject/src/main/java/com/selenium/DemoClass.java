@@ -10,6 +10,7 @@ public class DemoClass
 	public boolean falseMethod()
 	{
 		System.out.println("Last method");
-		return true;
+		return false;
 	}
+	
 }
